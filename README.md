@@ -39,6 +39,13 @@ Wireless robotic surveillance platform built using ESP32, motor drivers, and cam
 ### [Learning Management System (LMS)](./projects/lms-system/)
 Multi-user educational platform built with Dart and Python, designed for scalable content delivery and academic workflow optimization.
 
+---
+
+### [Self Balancing Robot (Modular Control System)](./projects/self-balancing-robot/)
+Embedded robotics system implementing MPU6050 IMU-based orientation sensing and PID feedback control for real-time self-balancing stabilization. Designed as a modular control architecture with planned extensions for obstacle avoidance and line-following capabilities.
+
+---
+
 ## Leadership and Technical Experience
 
 - Campus Director, Millennium Fellowship (UN Academic Impact)
