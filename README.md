@@ -21,19 +21,23 @@ Alongside engineering, I have experience in technical leadership, community buil
 
 ## Selected Engineering Projects
 
-### Smart Concrete Mix Ratio Verification System
+### [Smart Concrete Mix Ratio Verification System](./projects/scmrvs-concrete-system/)
 Real-time non-destructive testing system for concrete quality assurance using multi-sensor fusion, ESP32 processing, and intelligent material evaluation techniques.
 
-### Smart Fire Detection and Extinguishing System
+---
+
+### [Smart Fire Detection and Extinguishing System](./projects/smart-fire-system/)
 IoT-based safety system integrating flame and smoke sensors with automated suppression mechanisms and real-time alerting.
 
-### WiFi-Controlled Surveillance Car
+---
+
+### [WiFi-Controlled Surveillance Car](./projects/smart-surveillance-car/)
 Wireless robotic surveillance platform built using ESP32, motor drivers, and camera streaming for remote navigation and monitoring.
 
-### Learning Management System (LMS)
-Multi-user educational platform built with Dart and Python, designed for scalable content delivery and academic workflow optimization.
-
 ---
+
+### [Learning Management System (LMS)](./projects/lms-system/)
+Multi-user educational platform built with Dart and Python, designed for scalable content delivery and academic workflow optimization.
 
 ## Leadership and Technical Experience
 
