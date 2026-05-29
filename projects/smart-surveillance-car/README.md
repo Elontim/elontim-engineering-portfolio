@@ -50,11 +50,22 @@ The system enables:
 - Improved responsiveness and stability through control tuning
 - Validated feasibility of low-cost surveillance robotics system
 
+---
+
+## Images / Hardware Evidence
+
+### Robot Prototype
+![Robot Prototype](./images/surveil1.png)
+
+### System Build
+![System Build](./images/surveillance-robot.png)
+
+### Circuit / Setup View
+![Setup](./images/surveillance.png)
+
+---
 
 ## Demo / Evidence
-Google drive link: https://drive.google.com/drive/folders/1A9FG91WRtUFslWnGvLtJzfoMbRE1iYOy?usp=drive_link
-GitHub:
-https://github.com/elontim
-
-Google Drive:
-https://drive.google.com/drive/folders/1nFI3lLJ2K33FztLeS0u2FDPhnV2zbkIP?usp=drive_link
+- Google Drive: https://drive.google.com/drive/folders/1A9FG91WRtUFslWnGvLtJzfoMbRE1iYOy?usp=drive_link
+- Full Evidence Folder: https://drive.google.com/drive/folders/1nFI3lLJ2K33FztLeS0u2FDPhnV2zbkIP?usp=drive_link
+- GitHub: https://github.com/elontim
