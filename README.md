@@ -51,7 +51,7 @@ Embedded robotics system implementing MPU6050 IMU-based orientation sensing and 
 - Campus Director, Millennium Fellowship (UN Academic Impact)
 - IEEE Volunteer and Student Branch Contributor
 - Program Manager, IEEE Career Connect (200+ participants impacted)
-- Community Lead (500+ member Web3 and youth communities)
+- Community Lead (500+ member tech and youth communities)
 - Trainer in AI, robotics, and digital skills for 150+ students (Summer With Her Program)
 - Mentor and facilitator across multiple STEM and SDG-focused programs
 
