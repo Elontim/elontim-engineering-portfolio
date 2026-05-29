@@ -53,6 +53,10 @@ The system operates in three stages:
 
 ---
 
+### Media
+
+![Robot Prototype](./images/fireimage.jpg)
+
 ## Demo / Evidence
 Google Drive Proof:
 https://drive.google.com/drive/folders/1nFI3lLJ2K33FztLeS0u2FDPhnV2zbkIP?usp=drive_link
