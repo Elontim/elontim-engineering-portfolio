@@ -58,7 +58,7 @@ The system enables:
 ![Robot Prototype](./images/surveil1.png)
 
 ### System Build
-![System Build](./images/surveilance_robot.png)
+![System Build](./images/surveilance-robot.png)
 
 ### Circuit / Setup View
 ![Setup](./images/surveilance.png)
