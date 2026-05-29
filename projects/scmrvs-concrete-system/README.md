@@ -56,6 +56,11 @@ The system shifts concrete quality control from manual inspection to data-driven
   <img src="./images/circuit-design-scmrvs-system.png" width="700"/>
 </a>
 
+### 3D MODEL
+<a href="./images/MODEL A.png">
+  <img src="./images/MODEL A.png" width="700"/>
+</a>
+
 ## Demo / Evidence
 
 Google Drive:
