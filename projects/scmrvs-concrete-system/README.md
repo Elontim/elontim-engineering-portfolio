@@ -48,12 +48,14 @@ The system shifts concrete quality control from manual inspection to data-driven
 - Established foundation for scalable smart construction monitoring systems  
 
 ---
+
 ## Circuit Design (PCB Layout)
 
-Click to view full resolution:
+### SCMRS PCB Design
 
-[![SCMRS PCB Design](./images/circuit-design-scmrvs-system.png)](./images/circuit-design-scmrvs-system.png)
-
+<p align="center">
+  <img src="./images/circuit-design-scmrvs-system.png" width="750"/>
+</p>
 ## Demo / Evidence
 
 Google Drive:
