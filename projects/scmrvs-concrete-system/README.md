@@ -52,10 +52,10 @@ The system shifts concrete quality control from manual inspection to data-driven
 ## Circuit Design (PCB Layout)
 
 ### SCMRS PCB Design
+<a href="./images/circuit-design.png">
+  <img src="./images/circuit-design-scmrvs-system.png" width="700"/>
+</a>
 
-<p align="center">
-  <img src="./images/circuit-design-scmrvs-system.png" width="750"/>
-</p>
 ## Demo / Evidence
 
 Google Drive:
