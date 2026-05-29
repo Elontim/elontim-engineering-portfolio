@@ -1,96 +1,106 @@
-**Ayoola Timilehin Israel | Engineering Portfolio**
+# Ayoola Timilehin Israel — Engineering Portfolio
 
-Mechatronics Engineering Student | Embedded Systems | AI & Computer Vision | IoT Systems
+## Mechatronics Engineer | Embedded Systems | Robotics | IoT Systems | Web3 Builder
 
-**Overview**
+I am a Mechatronics Engineering student focused on building intelligent systems across embedded systems, robotics, and IoT. My work sits at the intersection of hardware design, firmware development, and real-world problem solving using automation and smart systems.
 
-I am a Mechatronics Engineering student focused on building intelligent physical systems that merge embedded hardware, machine learning, and real time automation. My work sits at the intersection of robotics, IoT, and applied AI systems designed for real world deployment in safety, infrastructure, and education.
+Alongside engineering, I have experience in technical leadership, community building, and managing large-scale youth and tech initiatives across Africa.
 
-_I build systems that sense, compute, and act._
+---
 
-**Core Technical Focus**
-Embedded Systems Development (ESP32, Arduino, STM32)
-Artificial Intelligence & Computer Vision (TensorFlow, OpenCV)
-IoT and Smart Monitoring Systems
-Control Systems and Simulation (MATLAB, Simulink, PID design)
-PCB design and hardware prototyping
-Full stack system integration (hardware + software + cloud)
+## Core Engineering Focus Areas
 
-**Selected Engineering Projects**
-**Smart Fire Detection and Automatic Extinguishing System**
+- Embedded Systems Development (ESP32, Arduino, STM32)
+- IoT and Smart Systems Design
+- Robotics and Automation
+- Control Systems and PID Modeling
+- PCB Design and Hardware Prototyping
+- AI and Machine Learning Applications in Engineering Systems
 
+---
 
-**_Real time embedded safety system integrating flame and gas detection with automated response mechanisms._**
-Built using ESP32 microcontroller
-MQ2 gas sensor and flame detection module
-Automated water pump activation via relay system
-Real time alerts via Telegram and web interface
-Focus: Embedded safety automation and rapid response systems
-Smart Concrete Mix Ratio Verification System
+## Selected Engineering Projects
 
-**_Sensor fusion system designed to detect structural inconsistencies in concrete during production._**
-Multi sensor architecture (ultrasonic, impedance, temperature)
-ESP32 based edge processing
-Designed for construction quality assurance
-PCB hardware design (2 layer board)
-Focus: Civil infrastructure intelligence and material validation
-PID Controlled Mass Spring Damper System
+### Smart Concrete Mix Ratio Verification System
+Real-time non-destructive testing system for concrete quality assurance using multi-sensor fusion, ESP32 processing, and intelligent material evaluation techniques.
 
-**_Control systems simulation project focused on system stability and dynamic response optimization._**
-Modeled using MATLAB Simulink
-Derived transfer function and system equations
-Implemented PID tuning using Ziegler Nichols and IMC methods
-Stability and overshoot optimization analysis
-WiFi Controlled Surveillance Robot
+### Smart Fire Detection and Extinguishing System
+IoT-based safety system integrating flame and smoke sensors with automated suppression mechanisms and real-time alerting.
 
-**_IoT based mobile surveillance system with remote monitoring and control._**
-ESP32 based WiFi control system
-Motor driver integration and real time control
-Camera streaming capability
-Designed using Arduino IDE and Proteus simulation
-Learning Management System (LMS) Software
+### WiFi-Controlled Surveillance Car
+Wireless robotic surveillance platform built using ESP32, motor drivers, and camera streaming for remote navigation and monitoring.
 
+### Learning Management System (LMS)
+Multi-user educational platform built with Dart and Python, designed for scalable content delivery and academic workflow optimization.
 
-_Collaborative education platform designed to improve access to learning materials._
-Built with Dart and Python
-Authentication and content management system
-Used by 200+ test users
-Optimized backend performance by 30%
-Research and Learning Direction
+---
 
-**Currently focused on:**
-TensorFlow based model training and deployment
-Edge AI for embedded systems
-Real time computer vision applications
-Intelligent IoT architectures
-Low power machine learning systems
-Engineering Impact Summary
-1000+ students trained across STEM and AI programs
-Led technical workshops and innovation sessions in university ecosystem
-Active contributor to embedded systems and robotics education initiatives
-Community leadership roles across engineering and innovation programs
-Multiple prototype level engineering systems built and tested
-Tools and Technologies
+## Leadership and Technical Experience
 
-**Embedded Systems:** ESP32, Arduino, STM32
-AI and ML: TensorFlow, PyTorch, OpenCV, Keras
-Programming: Python, C++, Dart, MATLAB
-Simulation: MATLAB Simulink, Proteus
-Design: PCB Design, Circuit Simulation, SolidWorks
-Development: IoT Systems, API integration, hardware software systems
+- Campus Director, Millennium Fellowship (UN Academic Impact)
+- IEEE Volunteer and Student Branch Contributor
+- Program Manager, IEEE Career Connect (200+ participants impacted)
+- Community Lead (500+ member Web3 and youth communities)
+- Trainer in AI, robotics, and digital skills for 150+ students (Summer With Her Program)
+- Mentor and facilitator across multiple STEM and SDG-focused programs
 
-**Portfolio and Proof of Work**
-_Portfolio_: https://elontim-portfolio.vercel.app 
- _GitHub_: https://github.com/elontim
- _Project Files_: https://drive.google.com/drive/folders/15ZrPTxr-mhqu-7RVFYAbcwtSgQJkK6cs?usp=drive_link
+---
 
+## Key Impact Highlights
 
-_Focus Statement_
-I am building toward engineering systems that combine embedded intelligence with real world automation. My long term direction is in robotics, AI driven infrastructure systems, and scalable IoT solutions that solve safety, efficiency, and environmental challenges in emerging economies.
+- Led technical and community programs impacting 200–500+ participants per initiative
+- Trained 100+ students in AI, robotics, and emerging technologies
+- Contributed to SDG-aligned sustainability and education projects
+- Recognized in national-level innovation challenges and showcases
+- Active across IEEE, sustainability networks, and youth development ecosystems
 
-**Contact**
+---
 
-Email: timilehinayoola2019@gmail.com
- _LinkedIn_: linkedin.com/in/timilehin-ayoola-2a147622a
- _GitHub_: github.com/elontim
- _Location:_ Nigeria
+## Technical Skills
+
+**Embedded Systems:** ESP32, Arduino, STM32, C/C++ firmware development  
+**Control Systems:** PID control, MATLAB Simulink, system modeling  
+**Programming:** Python, C++, Dart, MATLAB  
+**AI/ML:** TensorFlow, PyTorch, OpenCV, scikit-learn  
+**Hardware:** Circuit design, PCB layout, soldering, prototyping  
+**Tools:** Proteus, SolidWorks, Blender, Adobe Suite  
+
+---
+
+## Selected Certifications
+
+- MATLAB & Simulink Certified (MathWorks)
+- Aspire Leaders Fellowship (Aspire Institute)
+- IEEE Membership Training Programs
+- Microsoft Learn Student Ambassador Training
+- Jobberman Soft Skills Certification
+- Multiple AI, embedded systems, and leadership certifications
+
+---
+
+## External Links
+
+- LinkedIn: https://www.linkedin.com/in/ayoola-timilehin-israel  
+- Portfolio: https://ayoola-timilehin.lovable.app/  
+- Drive Evidence: https://drive.google.com/drive/folders/1nFI3lLJ2K33FztLeS0u2FDPhnV2zbkIP?usp=drive_link  
+
+---
+
+## Featured Philosophy
+
+Building engineering systems that move from simulation → prototype → real-world impact.
+
+Focused on intelligent systems that combine hardware, software, and human-centered design.
+
+---
+
+## Projects Directory
+
+Explore full technical breakdowns here:
+
+- Smart Concrete System → `/projects/scmrvs-concrete-system`
+- Fire Detection System → `/projects/smart-fire-system`
+- Surveillance Car → `/projects/smart-surveillance-car`
+- LMS Platform → `/projects/lms-system`
+
+---
