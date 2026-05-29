@@ -45,8 +45,7 @@ It integrates frontend and backend components into a unified system that support
 
 ## My Contribution
 - Collaborated in a **13-member engineering team**
-- Developed frontend modules using **Dart**
-- Assisted backend development using **Python**
+- Collaborated and Developed frontend modules using **Dart**
 - Implemented authentication and content upload features
 - Supported system integration and testing
 - Improved database query performance for efficiency
