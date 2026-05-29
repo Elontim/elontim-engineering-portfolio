@@ -53,15 +53,6 @@ The system operates in three stages:
 
 ---
 
-## Media
-Add images and videos here:
-- Circuit diagram
-- Prototype setup
-- Sensor testing results
-- System in action
-
----
-
 ## Demo / Evidence
 Google Drive Proof:
 https://drive.google.com/drive/folders/1nFI3lLJ2K33FztLeS0u2FDPhnV2zbkIP?usp=drive_link
