@@ -1,6 +1,6 @@
-# Ayoola Timilehin Israel — Engineering Portfolio
+# Ayoola Timilehin Israel: Engineering Portfolio
 
-## Mechatronics Engineer | Embedded Systems | Robotics | IoT Systems | Web3 Builder
+## Mechatronics Engineer | Embedded Systems | Robotics | IoT Systems | Tech Builder
 
 I am a Mechatronics Engineering student focused on building intelligent systems across embedded systems, robotics, and IoT. My work sits at the intersection of hardware design, firmware development, and real-world problem solving using automation and smart systems.
 
