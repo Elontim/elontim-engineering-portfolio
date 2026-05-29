@@ -80,9 +80,9 @@ Design: PCB Design, Circuit Simulation, SolidWorks
 Development: IoT Systems, API integration, hardware software systems
 
 **Portfolio and Proof of Work**
-_Portfolio_: https://elontim-portfolio.vercel.app
-_GitHub_: https://github.com/elontim
-_Project Files_: https://drive.google.com/drive/folders/15ZrPTxr-mhqu-7RVFYAbcwtSgQJkK6cs?usp=drive_link
+_Portfolio_: https://elontim-portfolio.vercel.app 
+ _GitHub_: https://github.com/elontim
+ _Project Files_: https://drive.google.com/drive/folders/15ZrPTxr-mhqu-7RVFYAbcwtSgQJkK6cs?usp=drive_link
 
 
 _Focus Statement_
@@ -91,6 +91,6 @@ I am building toward engineering systems that combine embedded intelligence with
 **Contact**
 
 Email: timilehinayoola2019@gmail.com
-_LinkedIn_: linkedin.com/in/timilehin-ayoola-2a147622a
-_GitHub_: github.com/elontim
-_Location:_ Nigeria
+ _LinkedIn_: linkedin.com/in/timilehin-ayoola-2a147622a
+ _GitHub_: github.com/elontim
+ _Location:_ Nigeria
