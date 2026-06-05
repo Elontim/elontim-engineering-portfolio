@@ -92,7 +92,7 @@ Embedded robotics system implementing MPU6050 IMU-based orientation sensing and 
 ## External Links
 
 - LinkedIn: https://www.linkedin.com/in/ayoola-timilehin-israel  
-- Portfolio: https://ayoola-timilehin.lovable.app/  
+- Portfolio:(https://elontim-portfolio.vercel.app/)
 - Drive Evidence: https://drive.google.com/drive/folders/1nFI3lLJ2K33FztLeS0u2FDPhnV2zbkIP?usp=drive_link  
 
 ---
